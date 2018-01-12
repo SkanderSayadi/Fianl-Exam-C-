@@ -3,8 +3,8 @@
 #include <cmath>
 #include <ctime>
 
-#include "cmake-build-debug/CMakeFiles/approximatefunction.h"
-#include "cmake-build-debug/CMakeFiles/Target.h"
+#include "approximatefunction.h"
+#include "CMakeFiles/Target.h"
 
 using namespace std;
 
