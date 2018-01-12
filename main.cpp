@@ -4,7 +4,7 @@
 #include <ctime>
 
 #include "approximatefunction.h"
-#include "CMakeFiles/Target.h"
+#include "Target.h"
 
 using namespace std;
 
